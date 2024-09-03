@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;// it used for the names and objects 
+using namespace std;//  used for the names and objects 
 
 int main() {
-    while (true)  {//my first while loop
+    while (true)  {// first while loop
         int num;//declare a number
         cout << "Please enter a positive integer: \n";
         cin >> num;
